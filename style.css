@@ -22,8 +22,8 @@ body {
 }
 /* Profile icon and menu */
 .profile {
-    margin-left: 1050px;
-    margin-top: -90px;
+    margin-left: 1530px;
+    margin-top: -80px;
     padding-bottom: 70px;
 
 }
@@ -275,7 +275,7 @@ body {
 
 }
 .imglogo{
-    margin-left: 600px;
+    margin-left: 800px;
 }
  .second-header {
     display: flex;
